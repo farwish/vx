@@ -1,0 +1,4 @@
+a.example.com
+
+ext    .html
+log    /var/log/caddy_access.log
